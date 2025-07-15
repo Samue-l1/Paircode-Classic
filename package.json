@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.0",
+    "@whiskeysockets/baileys": "github:Tennor-modz/MD-Baileys",
     "@colors/colors": "1.5.0",
     "cfonts": "~2.10.0",
     "chalk": "~4.1.0",
